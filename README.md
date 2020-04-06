@@ -5,5 +5,5 @@
 # @platform : linux or every computer which supports bash
 
 # @how to : -usage : ```sudo chmod +x plague.py``` to give the duties of exec
-		     ```./plague.py``` to launch the game```
+#		     ```./plague.py``` to launch the game```
 # @fun : have fun !
